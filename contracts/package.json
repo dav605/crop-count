@@ -1,0 +1,9 @@
+{
+  "name": "contracts",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "soroban:build": "cargo build --manifest-path soroban/asset-registry/Cargo.toml --target wasm32-unknown-unknown --release"
+  },
+  "devDependencies": {}
+}

@@ -1,0 +1,20 @@
+## Commands
+
+- Install dependencies - `npm install`
+- Start development app - `npm run dev`
+- Build and run production app - `npm run build` and `npm run start`
+
+## Environment
+
+- `NEXT_PUBLIC_STELLAR_HORIZON_URL`
+- `NEXT_PUBLIC_STELLAR_SOROBAN_RPC_URL`
+- `NEXT_PUBLIC_STELLAR_NETWORK_PASSPHRASE`
+- `NEXT_PUBLIC_STELLAR_CONTRACT_ID`
+- `NEXT_PUBLIC_STELLAR_ASSET_CODE`
+- `NEXT_PUBLIC_STELLAR_ASSET_ISSUER`
+- `STELLAR_HORIZON_URL`
+- `STELLAR_SOROBAN_RPC_URL`
+- `STELLAR_NETWORK_PASSPHRASE`
+- `STELLAR_CONTRACT_ID`
+- `STELLAR_ASSET_CODE`
+- `STELLAR_ASSET_ISSUER`
